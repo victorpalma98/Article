@@ -1,0 +1,30 @@
+body{
+    text-align: center;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 0px;
+    margin-bottom: 0px;
+  }
+
+#principaltitle{
+    font-family: sohne, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    line-height: 40px;
+    font-weight: 700;
+    font-size: 32px;
+}
+p{
+    text-align: left;
+    font-family: charter, Georgia, Cambria, "Times New Roman", Times, serif;
+    line-height: 32px;
+    font-weight: 400;
+    font-size: 20px;
+    color: #292929;
+}
+h2{
+    text-align: left;
+    font-family: charter, Georgia, Cambria, "Times New Roman", Times, serif;
+    line-height: 32px;
+    font-weight: 700;
+    font-size: 20px;
+    color: #292929;
+}
